@@ -1,0 +1,6 @@
+{
+    "ARCH": "x64",
+    "BIN_PATH": "../WindowsTerminal/",
+    "PREVIEW": true,
+    "WIN_VER": "10"
+}
