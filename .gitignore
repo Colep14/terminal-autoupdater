@@ -1,0 +1,5 @@
+*.js
+node_modules
+work
+package-lock.json
+error_log.txt
